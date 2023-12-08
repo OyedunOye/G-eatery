@@ -1,0 +1,13 @@
+.app__navbar {
+    width: 100%;
+    display: flex;
+    background: var(--color-black);
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.app__navbar-logo{
+    display: flex;
+    justify-content: flex-start;
+}
