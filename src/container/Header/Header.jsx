@@ -11,7 +11,7 @@ const Header = () => (
       <p className='p__opensans' style={{ margin: '2rem 0'}} >This is the short story about this restaurant. Just some random groups of characters to describe what is the design looking like. This is a good place to eat, with numerous fictitious dishes from other planets or whatever you can think of!</p>
       <button type='button' className='custom__button'>Explore Menu</button>
     </div>
-    <div className='app__wrapper_image'>
+    <div className='app__wrapper_img'>
       <img src={ images.welcome } alt='header_img' />
     </div>
   </div>
