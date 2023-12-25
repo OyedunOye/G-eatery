@@ -8,7 +8,7 @@ const FooterOverlay = () => {
         <div className='app__footerOverlay-img app__bg' />
         FooterOverlay
     </div>
-  )
-}
+  );
+};
 
 export default FooterOverlay;
