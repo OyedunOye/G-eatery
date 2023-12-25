@@ -15,7 +15,7 @@ const Newsletter = () => {
         <input type='email' placeholder='Enter your email address' />
         <button className='custom__button' type='button'>Subscribe</button>
       </div>
-      Newsletter
+      
   </div>
 )};
 
