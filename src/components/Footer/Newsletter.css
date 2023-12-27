@@ -42,6 +42,10 @@
 
     }
 
+    .app__newsletter-input button {
+        margin-top: 2rem;
+    }
+
     .app__newsletter-input input {
         margin: 0 02rem 0;
         width: 100%;
